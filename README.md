@@ -5,4 +5,7 @@ Hi everybody.
 
 This is the first change made on the readme file, done in the readme-edits branch.
 
-I hope it will work out okay.
+second edit in text editor:
+
+it worked out okay, and now I am doing step 4 of the 2nd selfstudy.
+
